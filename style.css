@@ -46,7 +46,7 @@ button:focus {
 nav {
   position: fixed;
   inset: 10%;
-  background-color: greenyellow;
+  background-color: none;
   display: none;
 }
 
